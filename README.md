@@ -1,0 +1,2 @@
+# gitmanifest
+git manifest trial
